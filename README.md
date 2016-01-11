@@ -1,6 +1,6 @@
-# JavaToUMLParser
 The project takes input as Java Source code and creates a UML Diagram (Class diagram) for the
 source Code. This project includes the following tools and libraries:
+
 1. Eclipse Luna - IDE for the development of Project
 2. Java Parser (https://github.com/javaparser/javaparser) - Java Parser used to parse the Java
 Source code
